@@ -6,7 +6,6 @@ The purpose of this assignment was to practice the extract, transform, load proc
 
 This assignment helped tie together a lot of the topics we had been learning up until this point. I found using pandas to view and work with the data was becoming very natural. I used regular expressions to clean up the box office numbers, and learning about them was the biggest challenge of the assignment. I am much more comfortable with using regex now and excited to apply this knowledge to other projects. 
 
-
 Example of functions used to clean data. 
 ![Cleaning Example](/Resources/cleaning_example.PNG)
 
