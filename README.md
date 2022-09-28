@@ -1,6 +1,8 @@
 # Movies-ETL
 This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 7 Challenge. This challenge consolidated the topics from previous challenges and asked us to extract, transform, and load large datasets into a postgreSQL database.. Topics covered including cleaning datasets, merging datasets, writing regular expressions, and loading a pandas DataFrame into postgreSQL. Final project work is in Movies_ETL.ipynb. 
 
+27 SEP 2022 - Updated repo to better organize files. 
+
 ## Summary
 The purpose of this assignment was to practice the extract, transform, load process with two large publicly available datasets. Two datasets of movie information were sourced from Kaggle and Wikipedia. Python and pandas were used to clean and merge the datasets. The final dataset was then loaded into a local postgreSQL database. 
 
